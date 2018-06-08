@@ -45,9 +45,9 @@
   </developers>
 
   <scm>
-    <connection>scm:git:https://github.com/alecharp/simple-app.git</connection>
-    <developerConnection>scm:git:https://github.com/alecharp/simple-app.git</developerConnection>
-    <url>https://github.com/alecharp/simple-app</url>
+    <connection>scm:git:https://github.com/devopslille/simple-app.git</connection>
+    <developerConnection>scm:git:https://github.com/devopslille/simple-app.git</developerConnection>
+    <url>https://github.com/devoplille/simple-app</url>
   </scm>
 
   <properties>
